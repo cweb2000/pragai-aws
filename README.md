@@ -1,0 +1,2 @@
+# pragai-aws
+pragmatic ai
